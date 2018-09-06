@@ -12,7 +12,7 @@ display.style.color='red' */
   background-color: lightblue;
   text-align: center;
   background-image: url("https://webgradients.com/public/webgradients_png/019%20Malibu%20Beach.png");
-  float: left;
+  float: right;
 }
 
 .inputs {
