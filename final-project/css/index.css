@@ -34,6 +34,10 @@ display.style.color='red' */
   text-align: center;
 }
 
+.column {
+  flex: 1;
+}
+
 body {
   background-color: black;
   color: white;
