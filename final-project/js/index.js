@@ -9,4 +9,4 @@ input.addEventListener('keydown', (event) => {
   
 })
 
-lastname.
+lastname.innerHTML
