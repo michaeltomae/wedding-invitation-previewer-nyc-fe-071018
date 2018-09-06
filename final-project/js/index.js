@@ -10,7 +10,7 @@ input.addEventListener('keydown', (event) => {
   const lastNameVariable = document.getElementById('last')
   const h2 = document.getElementById('lastName')
   const value = lastNameVariable.value
-  value.innerHTML = lastName
+  h2.innerHTML = value
 })
 
 
