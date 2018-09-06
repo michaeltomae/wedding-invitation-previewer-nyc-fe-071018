@@ -6,7 +6,7 @@ First Initials in the Display slice()?
 change the font type*/
 
 
-const input
+const input = document.getElement
 
 input.addEventListener('keydown', (event) => {
   
