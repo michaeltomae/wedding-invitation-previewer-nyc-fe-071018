@@ -23,16 +23,13 @@ display.style.color='red' */
 .inputs {
   text-align: center;
   float: left;
-  background-color: black;
-  color: white;
 }
 
 .title {
   text-align: center;
-  color: white;
-  background-color: black;
 }
 
 body {
   background-color: black;
+  color: white;
 }
