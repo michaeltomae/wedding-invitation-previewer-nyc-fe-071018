@@ -32,3 +32,7 @@ display.style.color='red' */
   color: white;
   background-color: black;
 }
+
+body {
+  background-color: black;
+}
