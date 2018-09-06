@@ -11,6 +11,7 @@ change the font type*/
 document.addEventListener('keyup', (event) => {
   const value = lastNameVariable.value
   h2.innerHTML = value
+  console.log(value)
 })
 
 
