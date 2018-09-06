@@ -9,7 +9,7 @@ change the font type*/
 input.addEventListener('keydown', (event) => {
   const lastNameVariable = document.getElementById('lastName')
   const value = lastNameVariable.value
-  lastNameVariable.innerHTML = lastName
+  value.innerHTML = lastName
 })
 
 
