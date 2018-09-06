@@ -1,0 +1,8 @@
+/* display: flex/grid
+if grid, grid-template-columns: 1fr 1fr
+if flex, flex-wrap: wrap
+if float, float: left
+if each side has its own flex, wrap it
+if flex in one container (width: 50%)
+input selection changes text box to blue 
+display.style.color='red' */
