@@ -5,4 +5,4 @@ transition between backgrounds
 First Initials in the Display slice()?
 change the font type*/
 
-input.addEventListener
+input.addEventListener('keydown')
