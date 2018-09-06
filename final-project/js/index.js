@@ -6,7 +6,7 @@ First Initials in the Display slice()?
 change the font type*/
 
 
-input.addEventListener('keydown', (event) => {
+document.addEventListener('keydown', (event) => {
   const lastNameVariable = document.getElementById('last')
   const h2 = document.getElementById('lastName')
   const value = lastNameVariable.value
