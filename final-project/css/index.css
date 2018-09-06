@@ -9,7 +9,7 @@ display.style.color='red' */
 
 
 .mainWebsite {
-  display: inline;
+  display: flex;
   background-color: black;
 }
 
