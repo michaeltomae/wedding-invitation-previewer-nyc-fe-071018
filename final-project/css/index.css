@@ -8,6 +8,6 @@ input selection changes text box to blue
 display.style.color='red' */
 
 
-invitation {
+.invitation {
   background-color: blue;
 }
