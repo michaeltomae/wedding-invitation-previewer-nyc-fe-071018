@@ -29,5 +29,7 @@ display.style.color='red' */
 
 .title {
   text-align: center;
+  color: white;
+  background-color: black;
 }
 
