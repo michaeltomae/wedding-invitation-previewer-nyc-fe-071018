@@ -8,6 +8,10 @@ input selection changes text box to blue
 display.style.color='red' */
 
 
+.mainWebsite {
+  display: inline;
+}
+
 .invitation {
   background-color: lightblue;
   text-align: center;
@@ -24,6 +28,3 @@ display.style.color='red' */
   text-align: center;
 }
 
-.mainWebsite {
-  display: inline;
-}
