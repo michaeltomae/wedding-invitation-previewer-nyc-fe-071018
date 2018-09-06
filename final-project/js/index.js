@@ -7,11 +7,4 @@ change the font type*/
 
 
 const lastNameVariable = document.getElementById('lastName').value
-
-
-
-input.addEventListener('keydown', (event) => {
-  
-})
-
-lastname.innerHTML = 
+lastname.innerHTML = lastNameVariable
