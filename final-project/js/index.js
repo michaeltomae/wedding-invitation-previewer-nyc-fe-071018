@@ -7,7 +7,8 @@ change the font type*/
 
 
 input.addEventListener('keydown', (event) => {
-  const lastNameVariable = document.getElementById('lastName')
+  const lastNameVariable = document.getElementById('last')
+  const 
   const value = lastNameVariable.value
   value.innerHTML = lastName
 })
