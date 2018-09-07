@@ -10,12 +10,14 @@ const lastNameVariable = document.getElementById('lastNameInput')
 const dateVariable = document.getElementById('dateInput')
 const weddingLocationVariable = document.getElementById('weddingLocationInput')
 
-const h2 = document.getElementById('lastNameOutput')
+const lastName = document.getElementById('lastNameOutput')
+const date = document.getElementById('dateOutput')
+const weddingLocation = document.getElementById('weddingLocationOutput')
 
 
 document.addEventListener('keyup', (event) => {
   const value = lastNameVariable.value
-  h2.innerHTML = value
+  lastName.innerHTML = value
   console.log(value)
 })
 
