@@ -15,7 +15,6 @@ const lastName = document.getElementById('lastNameOutput')
 const date = document.getElementById('dateOutput')
 const weddingLocation = document.getElementById('weddingLocationOutput')
 
-
 document.addEventListener('keyup', (event) => {
   lastName.innerHTML = lastNameVariable.value
   date.innerHTML = dateVariable.value
