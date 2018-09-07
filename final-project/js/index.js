@@ -7,8 +7,7 @@ change the font type*/
 
 
 const lastNameVariable = document.getElementById('lastNameInput')
-const lastNameVariable = document.getElementById('lastNameInput')
-const lastNameVariable = document.getElementById('lastNameInput')
+const lastNameVariable = document.getElementById('dateInput')
 
 const h2 = document.getElementById('lastName')
 
