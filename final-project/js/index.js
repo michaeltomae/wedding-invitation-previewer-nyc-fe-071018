@@ -7,6 +7,9 @@ change the font type*/
 
 
 const lastNameVariable = document.getElementById('lastNameInput')
+const lastNameVariable = document.getElementById('lastNameInput')
+const lastNameVariable = document.getElementById('lastNameInput')
+
 const h2 = document.getElementById('lastName')
 
 document.addEventListener('keyup', (event) => {
