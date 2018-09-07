@@ -16,9 +16,8 @@ const weddingLocation = document.getElementById('weddingLocationOutput')
 
 
 document.addEventListener('keyup', (event) => {
-  const value = lastNameVariable.value
-  lastName.innerHTML = value
-  console.log(value)
+  lastName.innerHTML = lastNameVariable.value
+  date.innerHTML = value
 })
 
 
