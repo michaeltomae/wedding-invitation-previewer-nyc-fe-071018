@@ -9,6 +9,8 @@ change the font type*/
 const lastNameVariable = document.getElementById('lastNameInput')
 const dateVariable = document.getElementById('dateInput')
 const weddingLocationVariable = document.getElementById('weddingLocationInput')
+const firstNameVariable1 = document.getElementById('firstNameInput1')
+const firstNameVariable2 = document.getElementById('firstNameInput2')
 
 const firstName = document.getElementById('firstNameOutput')
 const lastName = document.getElementById('lastNameOutput')
