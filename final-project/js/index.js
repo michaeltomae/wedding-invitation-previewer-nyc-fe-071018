@@ -10,7 +10,7 @@ const lastNameVariable = document.getElementById('lastNameInput')
 const dateVariable = document.getElementById('dateInput')
 const weddingLocationVariable = document.getElementById('weddingLocationInput')
 
-const h2 = document.getElementById('lastName')
+const h2 = document.getElementById('lastNameOutput')
 
 
 document.addEventListener('keyup', (event) => {
