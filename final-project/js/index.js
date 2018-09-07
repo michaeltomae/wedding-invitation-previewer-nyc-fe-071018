@@ -6,10 +6,11 @@ First Initials in the Display slice()?
 change the font type*/
 
 
-const lastNameVariable = document.getElementById('lastNameInput')
-const lastNameVariable = document.getElementById('dateInput')
+const lastNameVariable = document.getElementById('lastNameInput').value
+const dateVariable = document.getElementById('dateInput')
+const weddingLocationVariable = document.getElementById('weddingLocationInput')
 
-const h2 = document.getElementById('lastName')
+/* const h2 = document.getElementById('lastName') */
 
 document.addEventListener('keyup', (event) => {
   const value = lastNameVariable.value
