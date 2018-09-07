@@ -10,7 +10,7 @@ const lastNameVariable = document.getElementById('lastNameInput')
 const dateVariable = document.getElementById('dateInput')
 const weddingLocationVariable = document.getElementById('weddingLocationInput')
 
-const name = document.getElementById('lastNameOutput')
+const name = document.getElementById('nameOutput')
 const lastName = document.getElementById('lastNameOutput')
 const date = document.getElementById('dateOutput')
 const weddingLocation = document.getElementById('weddingLocationOutput')
